@@ -23,13 +23,14 @@ Coronavirus-Worldwide: https://news.google.com/covid19/map?hl=en-US&gl=US&ceid=U
 
 ### 해야 하는 일
   * - [x] 기술선형
-  * - [ ]  데이터 수집
-  * - [ ]  모형 코드
-      * - [ ] 접선도
-      * - [ ] 히스토그램
-      * - [ ] 지형도
-      * - [ ] 병도
-      * - [ ] 수구도
-      * - [ ] 중첩도
+  * - [x]  데이터 수집
+  * - [x]  모형 코드
+      * - [x] 접선도
+      * - [x] 히스토그램
+      * - [x] 지형도
+      * - [x] 병도
+      * - [x] 수구도
+      * - [x] 중첩도
 
-
+### 바로보기
+[covid19-vaccinated-visyation](https://tourscholar.github.io/covid19-vaccinated-visyalization/result/result_.html)
