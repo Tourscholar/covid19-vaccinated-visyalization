@@ -1,7 +1,4 @@
 # -*- coding:utf-8 -*-
-# author   : SunriseCai
-# datetime : 2021-04-11 14:49
-# software : PyCharm
 
 from pyecharts import options as opts
 from pyecharts.commons.utils import JsCode
