@@ -23,7 +23,7 @@ def _overlap():
         Bar()
             .add_xaxis(xaxis_data)
             .add_yaxis(
-            series_name="ten thousand/만",
+            series_name="Ten thousand/만",
             y_axis=yaxis_two_data,
         )
             .extend_axis(
